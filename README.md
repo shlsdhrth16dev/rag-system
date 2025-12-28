@@ -94,7 +94,7 @@ The system follows a microservices-inspired architecture managed via Docker Comp
 
 The application features a unique **GridScan** background that reacts to user interaction and camera input, providing a "Cyberpunk" aesthetic behind the chat interface.
 
-*(Add screenshots here)*
+
 
 ---
 
